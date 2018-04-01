@@ -10,6 +10,7 @@ https://github.com
     * eclipse  
     http://mergedoc.osdn.jp/  
     ※上記のURLからインストールを行う事で日本語化プラグインが入っている状態でインストールができます。
+    * postgresのインストール
     * stsのインストール
     * pgadmin  
     インストールサイト  
